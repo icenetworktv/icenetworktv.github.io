@@ -1,2 +1,3 @@
-# startup-app
-This repository hosts a admin tools to support the various startup activites
+# Involved Community Engagement Network
+
+This repository holds assets for the organization's static site
